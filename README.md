@@ -21,8 +21,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/lexkong/log"
-	"github.com/lexkong/log/lager"
+	"github.com/mafangtao/log"
+	"github.com/mafangtao/log/lager"
 )
 
 func main() {
