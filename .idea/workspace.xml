@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="063ca625-9e8f-44fe-93ef-45901a70cf76" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lager/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lager/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,5 +95,13 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="507" y="333" key="#Log_Highlighting_(ideolog)/0.0.1680.1050@0.0.1680.1050" timestamp="1595011326321" />
+    <state x="562" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595013073087">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="562" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1595013073087" />
+    <state x="541" y="280" width="598" height="490" key="find.popup" timestamp="1595436396146">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="541" y="280" width="598" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595436396146" />
   </component>
 </project>
